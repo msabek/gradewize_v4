@@ -1,0 +1,24 @@
+[project]
+name = "repl-nix-gradewise"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+    "anthropic>=0.37.1",
+    "fastapi>=0.115.3",
+    "groq>=0.11.0",
+    "numpy>=2.1.2",
+    "ollama>=0.3.3",
+    "openai>=1.52.2",
+    "openpyxl>=3.1.5",
+    "pandas>=2.2.3",
+    "pillow>=10.4.0",
+    "plotly>=5.24.1",
+    "pymupdf>=1.24.12",
+    "pypdf2>=3.0.1",
+    "python-multipart>=0.0.15",
+    "reportlab>=4.2.5",
+    "requests>=2.32.3",
+    "streamlit>=1.39.0",
+    "uvicorn>=0.32.0",
+]
